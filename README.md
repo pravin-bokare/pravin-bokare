@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
-<h3 align="center">A passionate Data Science learner from India.</h3>
 
-- 🌱 I’m currently learning **Big Data**
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/pravin-bokare?tab=repositories](https://github.com/pravin-bokare?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Deep Learning and Computer Vision.**
+- 💬 Ask me about **Data Engineering.**
 
 - 📫 How to reach me **pravinbokare10@gmail.com**
 
